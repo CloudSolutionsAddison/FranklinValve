@@ -1,4 +1,4 @@
-# Franklin Valve Auto-Lot Utility Library — Developer Reference
+# Auto-Lot Utility Library — Developer Reference
 
 ## Overview
 
